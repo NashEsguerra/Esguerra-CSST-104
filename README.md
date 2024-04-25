@@ -3,7 +3,7 @@ Activities and Projects Compilation
 
 # **Activities and Projects Compilation**
 
-#**Introduction**
+# **Introduction**
 
  Welcome to my Compilation of activities and project Below, you'll find a summary of my key project and activities related to computer courses, data science, machine learning and quantitative methods.
 
