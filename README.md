@@ -81,9 +81,65 @@ Quantitative Methods is a field that applies mathematical and statistical techni
 # **Activities**
 
 
+**Activity 1**
+
+https://colab.research.google.com/drive/1Uh_zBUJA919ZWuENfkuFRUwk0wwURjT7?usp=drive_open
+
+**Activity 2**
+
+https://colab.research.google.com/drive/1Spj5Wk1Mdkwnag8tBAgoBSdE40J5U7hD?usp=drive_open
+
+**Activity 3**
+
+https://colab.research.google.com/drive/1Cai--9D9VaLp5k5HCY5IBkmO67_YaVLF?usp=drive_open
+
+**Activity 4**
+
+https://colab.research.google.com/drive/1G4yLItu7r1E65BSepZnZIgiwoVX9bC2M?usp=drive_open
+
+**Activity 5**
+
+https://colab.research.google.com/drive/1UjI1ECxibk4EL082JO2dB_duxYRNImks?usp=drive_open
+
+**Activity 6**
+
+https://colab.research.google.com/drive/1QpMI_DYbOEhf5alu36OskPgpFgdhRp6R
+
+
 # **Exercises**
 
 **Exercise 1**
 
 https://colab.research.google.com/drive/1klNdE3G0c4qBQwUlNsYnTzIckGX_cGvX#scrollTo=zz1qpzKMKP7g
 
+**Exercise 2**
+
+https://colab.research.google.com/drive/1Q50Gh4xzQzHWgqstLJNK5C0DFJwhrKd6?usp=drive_open
+
+**Exercise 3**
+
+https://colab.research.google.com/drive/1R0B0qLM229hDEd938NpoeO0EdyZ-YqRE#scrollTo=EUv7a_X9FgUS
+
+**Exercise 4**
+
+https://colab.research.google.com/drive/13SSdH6MEBL8qNwzZPV1by8kRLcL7KQGa?usp=drive_open#scrollTo=BMFMt4Fo6afU
+
+**Exercise 5**
+
+https://colab.research.google.com/drive/1NVw8EDU0Jk9gU-bU7dngVf-aRluV-9N9?usp=drive_open
+
+**Exercise 6**
+
+https://colab.research.google.com/drive/11W4Cb_8W2_E0y12V-PE0AqHe6KqSWTYk?usp=drive_open
+
+**Exercise 7**
+
+https://colab.research.google.com/drive/1omoEktuzUov4mfjFCl87pmHcrNRLFYKi?usp=drive_open
+
+**Exercise 8**
+
+https://colab.research.google.com/drive/1lpVZWcRYjW0Pxpgt-kCyXjKTCyGuMWND?usp=drive_open
+
+# **Midterm Examination**
+
+https://colab.research.google.com/drive/1rBdGZ0T8avZY7VJVs1njdPsz4jrqEovP?usp=drive_open
