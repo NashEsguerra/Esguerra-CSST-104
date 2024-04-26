@@ -1,0 +1,60 @@
+/* CSS Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #2c3e50, #34495e); /* Gradient background */
+    color: #fff; /* White text */
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* Dark drop shadow */
+}
+
+h1, h2, h3 {
+    margin-top: 0;
+    color: #fff; /* White headings */
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #f1c40f; /* Yellow heading */
+}
+
+h2 {
+    margin-top: 30px;
+    font-size: 24px;
+    color: #e74c3c; /* Red subheading */
+}
+
+h3 {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #3498db; /* Blue subheading */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #fff; /* White links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ccc; /* Light gray on hover */
+}
