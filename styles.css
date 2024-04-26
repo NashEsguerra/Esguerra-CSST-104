@@ -58,3 +58,20 @@ a:hover {
     text-decoration: underline;
     color: #ccc; /* Light gray on hover */
 }
+
+/* Highlight styles for specific list items */
+.highlight {
+    font-weight: bold; /* Make the text bold */
+    color: #f1c40f; /* Yellow text */
+}
+
+/* Additional styling for the links and list items */
+ul li {
+    padding: 10px;
+    background-color: #2c3e50; /* Dark background for list items */
+    border-radius: 5px; /* Rounded corners for list items */
+}
+
+ul li a {
+    color: #fff; /* White text for links */
+}
